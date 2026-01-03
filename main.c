@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 
-#define N 500000
+#define N 700000
 #define MIN 0
-#define MAX 500000
+#define MAX 700000
 #define TIME_BUFFER_LEN 64
 #define UNSORTED_FILE_NAME "random-numbers.txt"
 #define SORTED_FILE_NAME "sorted-numbers.txt"
